@@ -1,33 +1,33 @@
 {
   "version": "v0.3.0",
   "archive": "meetingagent-models-v0.3.0.zip",
-  "archiveSize": 429162116,
-  "archiveSha256": "107d2aafbb3638c1d531f327ececf7fe962da0a18062722478ccbafc235003c8",
+  "archiveSize": 429162138,
+  "archiveSha256": "e4e758fd7dec5227d49b73d0e42dba50e7593e472c8152992224b1b8e1af25d6",
   "parts": [
     {
       "name": "meetingagent-models-v0.3.0.zip.001",
       "size": 94371840,
-      "sha256": "07a6b793f732770bcdab007adbb2d3f2944746b8cdb3bfe404aeef5741b76d96"
+      "sha256": "e08b9cbfdf75e13015cb7a6490ecb059544e185b502926a5746d1f40f5023d71"
     },
     {
       "name": "meetingagent-models-v0.3.0.zip.002",
       "size": 94371840,
-      "sha256": "54fafa7953b238ccd3f79d62c2879c566d778875df29b3ebd57f96fa396c3523"
+      "sha256": "7c04ee2074b824e8231829a3b874e2e5d962b710de76aa8d671a28c857c809a8"
     },
     {
       "name": "meetingagent-models-v0.3.0.zip.003",
       "size": 94371840,
-      "sha256": "ee61aaf4e9398a3919ce34ae0c11bd5ed8559b3c39bfd3964dc201f9944717b4"
+      "sha256": "1b34e67e7f68e0a3cdead55c0ed318c5a602d0bb2a7d4aa3ed268527bccd5ff4"
     },
     {
       "name": "meetingagent-models-v0.3.0.zip.004",
       "size": 94371840,
-      "sha256": "2fb7a069b5845718ae7873d861fe13833b3745f6b5eb4fb3b9704c84e329afb0"
+      "sha256": "42e7ac1eda5dea043c9c07915297970e5b37c50767f0e5a40de359dbe5709ec6"
     },
     {
       "name": "meetingagent-models-v0.3.0.zip.005",
-      "size": 51674756,
-      "sha256": "51943f99dad61220c1fbf48ce6635aaa8de544ea70c589f83cb0f547e17522fa"
+      "size": 51674778,
+      "sha256": "f176b846b8752836078ff6959f6fbda8bd4b7ff075ef9b275d0acb06437b7e19"
     }
   ]
 }
